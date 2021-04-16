@@ -1,0 +1,13 @@
+C:\Users\ceyz\source\repos\AndersenTasks\AndersenTask3\bin\Debug\netcoreapp3.1\AndersenTask3.exe
+C:\Users\ceyz\source\repos\AndersenTasks\AndersenTask3\bin\Debug\netcoreapp3.1\AndersenTask3.deps.json
+C:\Users\ceyz\source\repos\AndersenTasks\AndersenTask3\bin\Debug\netcoreapp3.1\AndersenTask3.runtimeconfig.json
+C:\Users\ceyz\source\repos\AndersenTasks\AndersenTask3\bin\Debug\netcoreapp3.1\AndersenTask3.runtimeconfig.dev.json
+C:\Users\ceyz\source\repos\AndersenTasks\AndersenTask3\bin\Debug\netcoreapp3.1\AndersenTask3.dll
+C:\Users\ceyz\source\repos\AndersenTasks\AndersenTask3\bin\Debug\netcoreapp3.1\AndersenTask3.pdb
+C:\Users\ceyz\source\repos\AndersenTasks\AndersenTask3\obj\Debug\netcoreapp3.1\AndersenTask3.csprojAssemblyReference.cache
+C:\Users\ceyz\source\repos\AndersenTasks\AndersenTask3\obj\Debug\netcoreapp3.1\AndersenTask3.AssemblyInfoInputs.cache
+C:\Users\ceyz\source\repos\AndersenTasks\AndersenTask3\obj\Debug\netcoreapp3.1\AndersenTask3.AssemblyInfo.cs
+C:\Users\ceyz\source\repos\AndersenTasks\AndersenTask3\obj\Debug\netcoreapp3.1\AndersenTask3.csproj.CoreCompileInputs.cache
+C:\Users\ceyz\source\repos\AndersenTasks\AndersenTask3\obj\Debug\netcoreapp3.1\AndersenTask3.dll
+C:\Users\ceyz\source\repos\AndersenTasks\AndersenTask3\obj\Debug\netcoreapp3.1\AndersenTask3.pdb
+C:\Users\ceyz\source\repos\AndersenTasks\AndersenTask3\obj\Debug\netcoreapp3.1\AndersenTask3.genruntimeconfig.cache
