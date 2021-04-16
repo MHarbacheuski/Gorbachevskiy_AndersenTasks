@@ -1,0 +1,13 @@
+C:\Users\ceyz\source\repos\Gorbachevskiy_AndersenTask\Gorbachevskiy_AndersenTask\bin\Debug\netcoreapp3.1\Gorbachevskiy_AndersenTask.exe
+C:\Users\ceyz\source\repos\Gorbachevskiy_AndersenTask\Gorbachevskiy_AndersenTask\bin\Debug\netcoreapp3.1\Gorbachevskiy_AndersenTask.deps.json
+C:\Users\ceyz\source\repos\Gorbachevskiy_AndersenTask\Gorbachevskiy_AndersenTask\bin\Debug\netcoreapp3.1\Gorbachevskiy_AndersenTask.runtimeconfig.json
+C:\Users\ceyz\source\repos\Gorbachevskiy_AndersenTask\Gorbachevskiy_AndersenTask\bin\Debug\netcoreapp3.1\Gorbachevskiy_AndersenTask.runtimeconfig.dev.json
+C:\Users\ceyz\source\repos\Gorbachevskiy_AndersenTask\Gorbachevskiy_AndersenTask\bin\Debug\netcoreapp3.1\Gorbachevskiy_AndersenTask.dll
+C:\Users\ceyz\source\repos\Gorbachevskiy_AndersenTask\Gorbachevskiy_AndersenTask\bin\Debug\netcoreapp3.1\Gorbachevskiy_AndersenTask.pdb
+C:\Users\ceyz\source\repos\Gorbachevskiy_AndersenTask\Gorbachevskiy_AndersenTask\obj\Debug\netcoreapp3.1\Gorbachevskiy_AndersenTask.csprojAssemblyReference.cache
+C:\Users\ceyz\source\repos\Gorbachevskiy_AndersenTask\Gorbachevskiy_AndersenTask\obj\Debug\netcoreapp3.1\Gorbachevskiy_AndersenTask.AssemblyInfoInputs.cache
+C:\Users\ceyz\source\repos\Gorbachevskiy_AndersenTask\Gorbachevskiy_AndersenTask\obj\Debug\netcoreapp3.1\Gorbachevskiy_AndersenTask.AssemblyInfo.cs
+C:\Users\ceyz\source\repos\Gorbachevskiy_AndersenTask\Gorbachevskiy_AndersenTask\obj\Debug\netcoreapp3.1\Gorbachevskiy_AndersenTask.csproj.CoreCompileInputs.cache
+C:\Users\ceyz\source\repos\Gorbachevskiy_AndersenTask\Gorbachevskiy_AndersenTask\obj\Debug\netcoreapp3.1\Gorbachevskiy_AndersenTask.dll
+C:\Users\ceyz\source\repos\Gorbachevskiy_AndersenTask\Gorbachevskiy_AndersenTask\obj\Debug\netcoreapp3.1\Gorbachevskiy_AndersenTask.pdb
+C:\Users\ceyz\source\repos\Gorbachevskiy_AndersenTask\Gorbachevskiy_AndersenTask\obj\Debug\netcoreapp3.1\Gorbachevskiy_AndersenTask.genruntimeconfig.cache
