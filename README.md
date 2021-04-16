@@ -19,7 +19,7 @@ Gorbachevskiy_AndersenTask3 - Составить алгоритм: на вход
 
 Также можно попробовать без запуска Visual Studio, запустить exe, но это может не получиться из-за несовпадения версий .net 
 
-Путь к exe (пример) : Gorbachevskiy_AndersedTask2 -> bin -> Debug -> netcoreapp3.1 -> Gorbachevskiy_AndersedTask2.exe
+Путь к exe (пример) : Gorbachevskiy_AndersenTask2 -> bin -> Debug -> netcoreapp3.1 -> Gorbachevskiy_AndersedTask2.exe
 
 В папке Gorbachevskiy_AndersenTask4 лежит txt файл с заданием и ответом на скобочную последовательность.
 
